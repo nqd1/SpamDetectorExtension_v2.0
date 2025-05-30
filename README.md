@@ -153,8 +153,8 @@ n=2: ████████████████░░ 67.8%
 ### 6.2. Clone và cài đặt project
 ```bash
 # Clone repository
-git clone https://github.com/F3ust/AI_INTRO_20242.git
-cd AI_INTRO_20242
+git clone https://github.com/nqd1/SpamDetectorExtension_v2.0.git
+cd SpamDetectorExtension_v2.0
 ```
 
 ### 6.3. Cài đặt và chạy backend (Flask API)
